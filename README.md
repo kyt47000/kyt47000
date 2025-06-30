@@ -9,48 +9,104 @@
        |___/                                 
 ```
 
-## Hi there! 👋
+# Hi there! 👋
 
-I'm **Yash Kayastha**, a passionate developer who loves creating innovative applications and exploring new technologies. I thrive on challenges and always seek to learn something new!
+I'm **Yash Kayastha** — a passionate developer who loves building cool things and diving deep into new technologies. I thrive on solving problems and pushing my skills to the next level.
 
-## About Me
+---
 
-I am based in an undisclosed location and currently focused on enhancing my skills in software development. I enjoy building projects that allow me to express my creativity and technical knowledge.
+## 📌 About Me
 
-## Skills & Technologies
+- 🌍 **Location:** Undisclosed
+- 🎯 **Focus:** Building full-stack apps, APIs, and exploring AI & cloud.
+- 🧠 **Mindset:** Keep learning. Keep building.
 
-c,cpp,java,pycharm,php,firebase,angular,nodejs,react,py,github,git,ai,anaconda,androidstudio,html,css,bootstrap,mongodb,mysql
+---
 
-## Top Projects
+## 🛠️ Skills & Technologies
 
-- [Blogging-Platform-API](https://github.com/kyt47000/Blogging-Platform-API)
-  - Description: Simple RESTful API with basic CRUD operations for a personal blogging platform.
-  - Stars: 0, Language: JavaScript, Forks: 0, Issues: 0
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-42B029?logo=anaconda&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 
-- [ATM-simulation](https://github.com/kyt47000/ATM-simulation)
-  - Description: Java GUI Based Simple ATM Simulator.
-  - Stars: 0, Language: Java, Forks: 0, Issues: 0
+---
 
-- [ticTacToe_Game](https://github.com/kyt47000/ticTacToe_Game)
-  - Description: This is a simple Tic Tac Toe game built using Python and Tkinter.
-  - Stars: 0, Language: Python, Forks: 0, Issues: 0
+## 🚀 Top Projects
 
-## GitHub Stats
+### 📌 [Blogging-Platform-API](https://github.com/kyt47000/Blogging-Platform-API)
+**Simple RESTful API** for a blogging platform with CRUD operations.  
+**Tech:** Node.js, Express, MongoDB  
+**Live:** [Render Deployment](https://blogging-platform-api-3lwo.onrender.com)
 
-### 📊 GitHub Stats
-- **Public Repositories:** 7
-- **Followers:** 1
-- **Following:** 0
+![Stars](https://img.shields.io/github/stars/kyt47000/Blogging-Platform-API?style=social)
+![Forks](https://img.shields.io/github/forks/kyt47000/Blogging-Platform-API?style=social)
 
+---
 
-## Recent Activity
+### 📌 [ATM-simulation](https://github.com/kyt47000/ATM-simulation)
+**Java GUI ATM Simulator** for learning GUI and OOP concepts.
 
-Here are some of my latest activities on GitHub:
-- Created a new repository for my ATM simulation project.
-- Pushed updates to the Blogging Platform API.
-- Contributed to various open-source projects.
-- Engaged in discussions regarding software development best practices.
+![Stars](https://img.shields.io/github/stars/kyt47000/ATM-simulation?style=social)
+![Forks](https://img.shields.io/github/forks/kyt47000/ATM-simulation?style=social)
 
-## Latest Blog Posts
+---
 
-Currently, I do not have any blog posts published. Stay tuned for updates!
+### 📌 [ticTacToe_Game](https://github.com/kyt47000/ticTacToe_Game)
+**Simple Tic Tac Toe game** using Python & Tkinter.
+
+![Stars](https://img.shields.io/github/stars/kyt47000/ticTacToe_Game?style=social)
+![Forks](https://img.shields.io/github/forks/kyt47000/ticTacToe_Game?style=social)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyt47000&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Recent Activity
+
+- 🚀 Pushed updates to **Blogging Platform API**
+- 🏦 Created **ATM Simulation** repo
+- 🎮 Built **Tic Tac Toe Game**
+- 🤝 Contributed to open source
+- 💬 Discussed dev best practices
+
+---
+
+## 📝 Latest Blog Posts
+
+Currently no blog posts — **stay tuned for more!**
+
+---
+
+## 📜 License
+
+All my public projects are under the **MIT License** — feel free to fork, modify, and learn!
+
+---
+
+## 📬 Get in Touch
+
+- 🔗 [GitHub](https://github.com/kyt47000)
+
+---
+
+**Thanks for stopping by! 🚀 Keep coding and keep learning!**
