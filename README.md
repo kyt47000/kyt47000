@@ -40,7 +40,7 @@ I'm **Yash Kayastha** — a passionate developer who loves building cool things 
 ![Stars](https://img.shields.io/github/stars/kyt47000/ticTacToe_Game?style=social)
 ![Forks](https://img.shields.io/github/forks/kyt47000/ticTacToe_Game?style=social)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyt47000&show_icons=true&theme=tokyonight)
+
 
 - 🚀 Pushed updates to **Blogging Platform API**
 - 🏦 Created **ATM Simulation** repo
