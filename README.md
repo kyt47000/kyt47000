@@ -48,7 +48,6 @@ I'm **Yash Kayastha** — a passionate developer who loves building cool things 
 - 🤝 Contributed to open source
 - 💬 Discussed dev best practices
 
-All my public projects are under the **MIT License** — feel free to fork, modify, and learn!
 
 - 🔗 [GitHub](https://github.com/kyt47000)
 - 📧 Email: kyt47000@gmail.com
